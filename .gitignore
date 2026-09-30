@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# 이 저장소는 제작 규격만 배포한다. 완성 대본과 취재 자료는 로컬에 둔다.
+artifacts/
+drafts/
+sources/
